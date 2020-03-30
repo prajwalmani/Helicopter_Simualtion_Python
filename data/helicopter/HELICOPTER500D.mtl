@@ -1,0 +1,98 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__183 (11) to come 
+#
+newmtl 500-D_Lineas
+Ka  0.5 0.0 0.0
+Kd  0.5 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+map_Kd 500DLINE.JPG
+#
+newmtl 500-D_Blanco
+Ka  1.0 0.9 0.9
+Kd  1.0 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Matricula
+Ka  0.5 0.0 0.0
+Kd  0.5 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+map_Kd 500DMAT.JPG
+#
+newmtl 500-D___500-D
+Ka  0.5 0.0 0.0
+Kd  0.5 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+map_Kd 500DNUM.JPG
+#
+newmtl 500-D_Negro
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Cristal_no
+Ka  0.1 0.2 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Cristal_Ve
+Ka  0.0 0.3 0.2
+Kd  0.0 0.3 0.2
+Ks  1.0 1.0 1.0
+d  0.6
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Luz_Roja
+Ka  0.6 0.0 0.0
+Kd  0.6 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.6
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Luz_Verde
+Ka  0.0 0.4 0.0
+Kd  0.0 0.4 0.0
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Negro1
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+#
+newmtl 500-D_Rojo
+Ka  0.5 0.0 0.0
+Kd  0.5 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.5
+illum 2
+#
+# Multi/Sub Material__183 done 
+#
+# EOF
