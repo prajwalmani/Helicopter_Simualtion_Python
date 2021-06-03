@@ -1,4 +1,4 @@
-# Helicopter_Simulation Using PyOpenGL API
+# Helicopter Simulation Using PyOpenGL API
 ## This project was built for the Subject 17CSL68 Computer Graphics and Visualization LAB.
 
 ## Team Memebers
